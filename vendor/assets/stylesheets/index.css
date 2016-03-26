@@ -9,7 +9,8 @@ and open the template in the editor.
 */
 
 /*
- *= require_tree .
- *= require_self
+*= require_self
+*= require bootstrap/bootstrap.min.css
+*= require grayscale.css
 */
 
