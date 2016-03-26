@@ -1,2 +1,2 @@
-# PaganStore
-Small demo project of a WebStore in Ruby On Rails
+# CelticTale
+Small demo project of a WebSite in Ruby On Rails
