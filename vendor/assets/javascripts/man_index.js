@@ -8,5 +8,6 @@
 //= require jquery
 //= require jquery_ujs
 //= require turbolinks
-//= require grayscale.js
-//= require jquery.easing.min.js
+//= require_tree ./bootstrap
+////= require_tree ./jquery
+//= require index/grayscale.js

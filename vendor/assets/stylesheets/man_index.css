@@ -10,7 +10,7 @@ and open the template in the editor.
 
 /*
 *= require_self
-*= require bootstrap/bootstrap.min.css
-*= require grayscale.css
+*= require_tree ./index
+*= require font-awesome.css.scss
 */
 
