@@ -1,11 +1,15 @@
 Rails.application.routes.draw do
+  get 'products/tshirts'
+
+  get 'products/cds'
+
   root "access#index"
 
   get 'access/index'
 
   get 'access/login'
   
-  get 'access/admin'  
+  get 'admin' => 'access#admin'  
 
   # The priority is based upon order of creation: first created -> highest priority.
   # See how all your routes lay out with "rake routes".

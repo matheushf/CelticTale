@@ -10,4 +10,4 @@
 //= require turbolinks
 //= require_tree ./bootstrap
 ////= require_tree ./jquery
-//= require index/grayscale.js
+//= require_tree ./index
